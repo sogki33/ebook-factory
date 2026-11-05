@@ -1,0 +1,22 @@
+title: "Sourdough Basics"
+subtitle: "From a jar of flour and water to your first crackly loaf — step by step, in one week"
+author: "Demo Bakery Press"
+language: en
+page_size: A5
+theme: classic
+colors:
+  accent: "#b45309"
+  dark: "#292524"
+  highlight: "#f59e0b"
+cover_image: images/cover.jpg
+cover_tag: "Illustrated beginner's guide"
+price: "$7"
+buy_url: "https://example.gumroad.com/l/sourdough-basics"
+free_url: "https://example.gumroad.com/l/sourdough-sampler"
+intro_box:
+  title: "Keep this next to your jar"
+  text: "Save this PDF on your phone or print the checklists. Day-by-day steps are easier to follow with flour on your hands than a long video."
+notice: "Demo content generated for ebook-factory. Illustrations are procedural placeholders."
+sampler:
+  chapters: [1]
+  cover_tag: "Free sampler · Chapter 1"
