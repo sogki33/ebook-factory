@@ -1,0 +1,7 @@
+markdown>=3.5
+PyYAML>=6
+playwright>=1.40
+Pillow>=10
+pypdf>=4
+qrcode>=7      # optional: QR code on the sampler CTA page
+pytest>=8      # tests
